@@ -70,6 +70,7 @@ git clone https://github.com/seu-usuario/sistemabancario-dio.git
 ## 📦 Melhorias Futuras
 - Autenticação por CPF
 - Vincular Operações e Extrato à Conta
+- Validação de Dados na Criação de Usuário
 - Bloqueio e exclusão de contas
 - Persistência de dados em arquivos JSON ou banco SQLite
 
