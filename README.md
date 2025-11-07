@@ -50,7 +50,7 @@ Conta
 ```
 
 ## 🚦Como Executar
-1. clone o repositório:
+1. Clone o repositório:
 ```
 git clone https://github.com/seu-usuario/sistemabancario-dio.git
 ```
@@ -79,14 +79,16 @@ Izaura TM - responsável pelo projeto.
 ## 📫 Contribuições
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sugestões ou novas funcionalidades!
 
+---
+
 > Este conteúdo faz parte do projeto **Otimizando o Sistema Bancário com Funções Python - Laboratório** da plataforma DIO.me.
 
 📎 Link do curso: [DIO.me](https://web.dio.me/home) 
 
 ---
+
 ### Licença
 
----
 Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
 <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
